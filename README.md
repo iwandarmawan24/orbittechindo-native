@@ -71,13 +71,21 @@ To set up this React Native project from scratch, follow these steps:
 
 2. Install the required dependencies:
    ```bash
-   npm install @react-navigation/native @react-navigation/native-stack @react-navigation/bottom-tabs
-   npm install react-native-paper react-native-vector-icons
-   npm install @react-native-async-storage/async-storage
-   npm install react-native-reanimated react-native-gesture-handler react-native-safe-area-context
-   npm install @tanstack/react-query
-   npm install react-hook-form @hookform/resolvers zod
-   npm install expo-linear-gradient
+   npm install \
+     @react-navigation/native \
+     @react-navigation/native-stack \
+     @react-navigation/bottom-tabs \
+     react-native-paper \
+     react-native-vector-icons \
+     @react-native-async-storage/async-storage \
+     react-native-reanimated \
+     react-native-gesture-handler \
+     react-native-safe-area-context \
+     @tanstack/react-query \
+     react-hook-form \
+     @hookform/resolvers \
+     zod \
+     expo-linear-gradient
    ```
 
 3. Update your `babel.config.js` to include the Reanimated plugin:
