@@ -91,24 +91,6 @@ module.exports = {
 };
 \`\`\`
 
-## Project Structure
-
-\`\`\`
-movie-explorer-mobile/
-├── assets/                 # Static assets like images and fonts
-├── src/
-│   ├── components/         # Reusable UI components
-│   ├── contexts/           # React contexts for state management
-│   ├── navigation/         # Navigation configuration
-│   ├── screens/            # Screen components
-│   ├── services/           # API services
-│   ├── theme/              # Theme configuration
-│   └── types/              # TypeScript type definitions
-├── App.tsx                 # Main application component
-├── app.json                # Expo configuration
-└── babel.config.js         # Babel configuration
-\`\`\`
-
 ## API Integration
 
 This app uses the OMDB API to fetch movie data. You'll need to obtain an API key from [OMDB API](http://www.omdbapi.com/) and update it in the `src/services/api.ts` file.
