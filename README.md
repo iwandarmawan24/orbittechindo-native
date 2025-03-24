@@ -2,8 +2,6 @@
 
 A React Native mobile application for exploring movies, TV shows, and more. This is the mobile version of the Movie Explorer web application.
 
-![Movie Explorer Mobile](./assets/app-preview.png)
-
 ## Features
 
 - **Authentication**: User registration and login functionality
