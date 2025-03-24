@@ -37,22 +37,22 @@ A React Native mobile application for exploring movies, TV shows, and more. This
 ### Installation
 
 1. Clone the repository:
-\`\`\`bash
-git clone https://github.com/yourusername/movie-explorer-mobile.git
-cd movie-explorer-mobile
-\`\`\`
+   ```bash
+   git clone https://github.com/yourusername/movie-explorer-mobile.git
+   cd movie-explorer-mobile
+   ```
 
 2. Install dependencies:
-\`\`\`bash
-npm install
-# or
-yarn install
-\`\`\`
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
 
 3. Start the development server:
-\`\`\`bash
-npx expo start
-\`\`\`
+   ```bash
+   npx expo start
+   ```
 
 4. Run on a device or emulator:
    - Press `i` to run on iOS Simulator
